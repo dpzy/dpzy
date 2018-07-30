@@ -1,2 +1,1 @@
-# dpzy
-David's Personal Site
+# dpzy default
